@@ -1,8 +1,39 @@
 h1 {
 	font-size: 24px;
-
 }
 
 .somebkgd {
 	background: #f0c0f0;
+}
+
+#mynavbutton {
+/*	background: #c0f0f0;
+*/	vertical-align: middle;
+}
+
+.mymenuitem {
+	background: #c0f0c0;
+}
+
+.centermedbold {
+    text-align: center;
+    font-weight: bold;
+    font-size: 125%;
+}
+
+.centerbigbold {
+    text-align: center;
+    font-weight: bold;
+    font-size: 170%;
+}
+
+#brandrow {
+	background: #d0f0f0;
+}
+
+.mybrand {
+    height: 50px;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 170%;
 }
