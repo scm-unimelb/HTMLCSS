@@ -1,45 +1,11 @@
-h1 {
-	font-size: 24px;
+
+.lorembkgd {
+	background: #f8e0f8;
 }
 
-.somebkgd {
-	background: #f0c0f0;
+/* to highlight the menu background */
+.mymenubkgd {
+	background: #d0f0d0;
 }
 
-#mynavbutton {
-/*	background: #c0f0f0;
-*/	vertical-align: middle;
-}
 
-.mymenuitem {
-	background: #c0f0c0;
-}
-
-.centeritem {
-    text-align: center;
-    border-width: 0px 0px 1px 0px;
-    border-style: solid;
-}
-
-.centermedbold {
-    text-align: center;
-    font-weight: bold;
-    font-size: 125%;
-}
-
-.centerbigbold {
-    text-align: center;
-    font-weight: bold;
-    font-size: 170%;
-}
-
-#brandrow {
-	background: #d0f0f0;
-}
-
-.mybrand {
-    height: 50px;
-    vertical-align: middle;
-    font-weight: bold;
-    font-size: 170%;
-}
