@@ -15,6 +15,12 @@ h1 {
 	background: #c0f0c0;
 }
 
+.centeritem {
+    text-align: center;
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+}
+
 .centermedbold {
     text-align: center;
     font-weight: bold;
